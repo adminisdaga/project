@@ -504,7 +504,9 @@
     text-decoration-skip-ink: none;
     color: #3c3c3b;
 }
-
+.price-12{
+    font-size: 23px;
+}
 .price-2 {
     margin-bottom: 10px;
     font-size: 20px;
@@ -558,3 +560,76 @@
     width: 120px;
     height: 40px;
 }
+.advertising{
+    width: 1321px;
+    height: 251px;
+    margin-left: 150px;
+    background-color: #F6F6F6;
+}
+.advertising-left-text{
+    height: 34px;
+    padding-top: 28px;
+    padding-left: 28px;
+    font-family: Inter;
+    font-size: 28px;
+    font-weight: 500;
+    line-height: 33.89px;
+    text-align: left;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;}
+
+.advertising-left-text-1{
+    width: 618px;
+    height: 24px;
+    padding-left: 28px;
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 24.2px;
+    text-align: left;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+}
+.advertising-left-text-2{
+    width: 167px;
+    height: 22px;
+    padding-top: 90px;
+    padding-left: 28px;
+    display: flex;
+    font-family: Inter;
+    font-size: 18px;
+    font-weight: 600;
+    line-height: 21.78px;
+    text-align: left;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+    color: #F0BA4E;
+}
+.advertising-right{
+    width: 486px;
+    margin-left: 818px;
+    margin-top: -233px;
+    height: 251px;
+}
+.products-item__crads-procent{
+
+}
+.price-top{
+    font-size: 23px;
+}
+.footer{
+    width: 1321px;
+height: 373px;
+
+background: #4B565E;
+}
+.footer{
+    width: 1920px;
+height: 373px;
+top: 2888px;
+gap: 0px;
+opacity: 0px;
+background: #4B565E;
+
+}
+  

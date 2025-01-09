@@ -10,4 +10,13 @@ import { RouterOutlet } from '@angular/router';
 })
 export class AppComponent {
   title = 'mentoring-first-project';
+ readonly headeritem1 = 'Главная'
+ readonly headeritem2 = 'О компаний'
+ readonly headeritem3 = 'Каталог'
+ readonly header2item = 'Каталог'
+ readonly header2item2 = 'Стройматериалы'
+ readonly header2item3 = 'Инструменты'
+ readonly header2item4 = 'Электрика'
+ readonly header2item5 = 'Интерьер и одежда'
+ 
 }
